@@ -1,4 +1,8 @@
+import java.util.Scanner;
+
 public interface transaksi {
-    public void proses();
-//    public void struk();
+    public void pembelian();
+    public void daftar();
+    public void struk();
+
 }
